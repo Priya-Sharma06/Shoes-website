@@ -71,37 +71,37 @@ Shoes-website/
 ## 📸 Website Preview
 
 ### 🛍️ Products Section
-![Products](images/products.png)
+![Products](assets/products.png)
 
 ---
 
 ### ℹ️ About Section
-![About](images/about.png)
+![About](assets/about.png)
 
 ---
 
 ### ⭐ Customer Reviews
-![Reviews](images/review.png)
+![Reviews](assets/review.png)
 
 ---
 
 ### 🚚 Services
-![Services](images/services.png)
+![Services](assets/services.png)
 
 ---
 
 ### 🔐 Login Page
-![Login](images/login.png)
+![Login](assets/login.png)
 
 ---
 
 ### 🛒 Shopping Cart
-![Cart](images/cart.png)
+![Cart](assets/cart.png)
 
 ---
 
 ### ❤️ Liked Products
-![Liked Products](images/liked.png)
+![Liked Products](assets/liked.png)
 
 ---
 
