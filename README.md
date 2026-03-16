@@ -115,13 +115,7 @@ git clone https://github.com/Priya-Sharma06/Shoes-website.git
 
 2. Open the project folder
 
-3. Run the project by opening
-
-```bash
-index.html
-```
-
-in your browser.
+3. Run the project by opening index.html in your browser.
 
 ---
 
