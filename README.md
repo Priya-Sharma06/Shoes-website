@@ -129,13 +129,3 @@ git clone https://github.com/Priya-Sharma06/Shoes-website.git
 
 ---
 
-## 👩‍💻 Author
-
-**Priya Sharma**
-
-GitHub:  
-https://github.com/Priya-Sharma06
-
----
-
-⭐ If you like this project, consider **starring the repository**.
