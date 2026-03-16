@@ -127,5 +127,4 @@ git clone https://github.com/Priya-Sharma06/Shoes-website.git
 4. Integrate payment gateway  
 5. Improve mobile responsiveness  
 
----
 
